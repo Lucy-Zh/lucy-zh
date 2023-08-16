@@ -1,8 +1,16 @@
 # Hi, I'm Lucy Zhang! :star:
 
+I'm a 3rd year co-op software engineering student at McGill University!
+
 ## Technical Experience :computer:
 ### Programming Languages
 
-## My projects :bulb:
+Java, C#, GoLang, C++, Python, HTML/CSS, Javascript, SQL
 
-## Find out more about me! :point_down:
+### Technical Projects
+
+Here is a link to my [portfolio](https://github.com/Lucy-Zh/Portfolio) :)
+
+## Reach out 🔊
+
+Add me on [LinkedIn](https://www.linkedin.com/in/lucy-zhang0/)!
