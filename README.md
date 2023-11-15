@@ -5,7 +5,7 @@ I'm a 3rd year co-op software engineering student at McGill University!
 ## Technical Experience :computer:
 ### Programming Languages
 
-Java, C#, GoLang, C++, Python, HTML/CSS, Javascript, SQL
+Java, C#, GoLang, Python, HTML/CSS, Javascript
 
 ### Technical Projects
 
